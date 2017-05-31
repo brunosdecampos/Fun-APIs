@@ -1,4 +1,4 @@
-# Fun-APIs
+# Fun APIs
 This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 
 ### A
