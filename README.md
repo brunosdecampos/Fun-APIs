@@ -1,5 +1,5 @@
 # Fun-APIs
-This is a colaborative list of fun APIs you definitely should try out.
+This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 
 ### A
 - [Algolia](https://www.algolia.com/) - Search as a Service
