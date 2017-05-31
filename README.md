@@ -2,7 +2,7 @@
 This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 
 ### A
-- [Algolia](https://www.algolia.com/) - Search as a Service
+- [Algolia](https://www.algolia.com/){:target="_blank"} - Search as a Service
 - [Amazon Big Data](https://aws.amazon.com/public-data-sets/) - Terabytes and terabytes of data
 ### B
 - [Battle.net](https://dev.battle.net/) - Blizzard
