@@ -2,7 +2,7 @@
 This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 
 ### A
-- [Algolia](https://www.algolia.com/) - Search as a Service
+- [Algolia](https://www.algolia.com/) - Smart search as a service
 - [Amazon Big Data](https://aws.amazon.com/public-data-sets/) - Terabytes and terabytes of data
 ### B
 - [Battle.net](https://dev.battle.net/) - Blizzard
@@ -10,9 +10,9 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 ### C
 - [Common Crawl](http://commoncrawl.org/) - Lots of data, petabytes of it
 ### D
-
+- [Deck of cards](http://deckofcardsapi.com/)
 ### E
-
+- [EchoNest](http://the.echonest.com/) - The API behind Spotify's music recommendations, similiar artists and radio
 ### F
 - [Firebase](https://www.firebase.com/) - Build your own API
 - [FitBit](https://dev.fitbit.com/eu) - FitBit fitness tracker
@@ -52,6 +52,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 ### R
 - [Reddit](https://www.reddit.com/dev/api)
 - [Riot Games](https://developer.riotgames.com/)
+- [RoboHash](https://robohash.org) - Create robot avatars
 ### S
 - [Slack](https://api.slack.com/web)
 - [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
@@ -61,6 +62,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 ### T
 - [Telegram](https://core.telegram.org/)
 - [The Counted](http://thecountedapi.com/) - Officer-involved killings in the US
+- [TheTVdb](http://thetvdb.com/wiki/index.php?title=Programmers_API) - What Kodi Media Center uses to grab information for TV shows
 - [Twilio](https://www.twilio.com/) - VoiP & Text Messaging
 - [Twitter](https://dev.twitter.com/rest/public)
 ### U
