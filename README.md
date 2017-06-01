@@ -15,7 +15,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 - [CodePoints](https://github.com/Codepoints/Codepoints.net/wiki/API) - RESTful interface to unicode data
 - [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) - Microsoft's new API
 - [Common Crawl](http://commoncrawl.org/) - Lots of data, petabytes of it
-- [Crime Data](https://market.mashape.com/jgentes/crime-data) - Let’s you get most recent and historical crime data so you feel safe in your neighbourhood
+- [Crime Data](https://market.mashape.com/jgentes/crime-data) - Lets you get most recent and historical crime data so you feel safe in your neighbourhood
 ### D
 - [Deck of cards](http://deckofcardsapi.com/)
 - [Destiny](https://www.bungie.net/platform/destiny/help/) - Bungie's video game
@@ -25,7 +25,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 - [EchoNest](http://the.echonest.com/) - The API behind Spotify's music recommendations, similiar artists and radio
 - [Edmunds](http://developer.edmunds.com/) - US automotive data
 ### F
-- [Face Detection](https://market.mashape.com/faceplusplus/faceplusplus-face-detection) - Let’s you detect the information of a given photo (e.g. face location, age, race, gender etc)
+- [Face Detection](https://market.mashape.com/faceplusplus/faceplusplus-face-detection) - Lets you detect the information of a given photo (e.g. face location, age, race, gender etc)
 - [Facebook](https://developers.facebook.com/)
 - [Firebase](https://www.firebase.com/) - Build your own API
 - [FitBit](https://dev.fitbit.com/eu) - FitBit fitness tracker
@@ -44,7 +44,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 ### I
 - [IBM Watson](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/apis/) - Cognitive Computing with IBM
 - [IFTTT](https://ifttt.com/)
-- [Image Recognition](https://market.mashape.com/viscovery/image-recognition) - Let’s you add and edit images for searching and matching
+- [Image Recognition](https://market.mashape.com/viscovery/image-recognition) - Lets you add and edit images for searching and matching
 - [Import.io](https://import.io/) - turns HTML pages to JSON
 ### J
 - [JawBone](https://jawbone.com/up/developer/) - Jawbone fitness tracker
@@ -53,13 +53,13 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 - [Kitten Placeholder](https://market.mashape.com/nijikokun/kitten-placeholder) - Generates random pictures of cute kittens or adorable cats for your app/website, or just for your personal amusement
 ### L
 - [Lob](https://lob.com/) - Email Postcards
-- [Love Calculator](https://market.mashape.com/ajith/love-calculator) - Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship
+- [Love Calculator](https://market.mashape.com/ajith/love-calculator) - Lets you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship
 ### M
 - [Marvel Comics](http://developer.marvel.com/)
 - [Mashape](https://market.mashape.com/) - API Market
-- [MEME Generator](https://market.mashape.com/ronreiter/meme-generator) - Let’s you generate memes by choosing preloaded images, and short top and bottom text sentences
+- [MEME Generator](https://market.mashape.com/ronreiter/meme-generator) - Lets you generate memes by choosing preloaded images, and short top and bottom text sentences
 - [Moneypot](https://www.moneypot.com/api-docs) - BitCoin Gambling
-- [MusiXmatch](https://market.mashape.com/musixmatch-com/musixmatch) - Let’s you legally display lyrics of over 640k artists and 13M tracks on your app or website
+- [MusiXmatch](https://market.mashape.com/musixmatch-com/musixmatch) - Lets you legally display lyrics of over 640k artists and 13M tracks on your app or website
 ### N
 - [NASA](https://data.nasa.gov/developer)
 - [Natural Language Processing (NLP)](https://market.mashape.com/loudelement/free-natural-language-processing-service) - Service including sentiment analysis, content extraction, and language detection
