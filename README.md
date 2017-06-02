@@ -9,7 +9,6 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 - [Battle.net](https://dev.battle.net/) - Blizzard
 - [BigOven](http://api2.bigoven.com/) - Food and recipes
 - [BreweryDB](http://www.brewerydb.com/browse) - Beer, beer, beer
-- [HTML5 API Demos](https://github.com/AurelioDeRosa/HTML5-API-demos) - Browser Interactions
 ### C
 - [Catapult](http://dev.bandwidth.com/) - Very similar to Twilio, but cheaper and better call routes (fewer hops)
 - [CodePoints](https://github.com/Codepoints/Codepoints.net/wiki/API) - RESTful interface to unicode data
@@ -40,7 +39,7 @@ This is a colaborative list of fun APIs you definitely should try out. Enjoy it!
 - [Giphy](https://github.com/Giphy/GiphyAPI) - Animated GIF search engine
 - [Guild Wars 2](https://wiki.guildwars2.com/wiki/API:Main)
 ### H
-
+- [HTML5 API Demos](https://github.com/AurelioDeRosa/HTML5-API-demos) - Browser Interactions
 ### I
 - [IBM Watson](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/apis/) - Cognitive Computing with IBM
 - [IFTTT](https://ifttt.com/)
